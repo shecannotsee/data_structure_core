@@ -1,0 +1,12 @@
+//
+// Created by shecannotsee on 2023/3/17.
+//
+
+#ifndef DATA_STRUCTURE_CORE_SRC_LINEAR_DOUBLE_LINKED_LIST_H_
+#define DATA_STRUCTURE_CORE_SRC_LINEAR_DOUBLE_LINKED_LIST_H_
+
+class double_linked_list {
+
+};
+
+#endif //DATA_STRUCTURE_CORE_SRC_LINEAR_DOUBLE_LINKED_LIST_H_
