@@ -1,0 +1,12 @@
+//
+// Created by shecannotsee on 2023/3/17.
+//
+
+#ifndef DATA_STRUCTURE_CORE_SRC_HASH_TABLE_OPEN_ADDRESSING_H_
+#define DATA_STRUCTURE_CORE_SRC_HASH_TABLE_OPEN_ADDRESSING_H_
+
+class open_addressing {
+
+};
+
+#endif //DATA_STRUCTURE_CORE_SRC_HASH_TABLE_OPEN_ADDRESSING_H_

@@ -1,0 +1,12 @@
+//
+// Created by shecannotsee on 2023/3/17.
+//
+
+#ifndef DATA_STRUCTURE_CORE_SRC_HASH_TABLE_REHASHING_H_
+#define DATA_STRUCTURE_CORE_SRC_HASH_TABLE_REHASHING_H_
+
+class rehashing {
+
+};
+
+#endif //DATA_STRUCTURE_CORE_SRC_HASH_TABLE_REHASHING_H_

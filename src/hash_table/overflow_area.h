@@ -1,0 +1,12 @@
+//
+// Created by shecannotsee on 2023/3/17.
+//
+
+#ifndef DATA_STRUCTURE_CORE_SRC_HASH_TABLE_OVERFLOW_AREA_H_
+#define DATA_STRUCTURE_CORE_SRC_HASH_TABLE_OVERFLOW_AREA_H_
+
+class overflow_area {
+
+};
+
+#endif //DATA_STRUCTURE_CORE_SRC_HASH_TABLE_OVERFLOW_AREA_H_
