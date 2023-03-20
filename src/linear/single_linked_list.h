@@ -25,10 +25,10 @@ class single_linked_list {
   int size_;
 
  public:
+  // insert from head
+  bool insert(T&& element);
   // insert from tail
   bool add(T&& element);
-  // insert from scratch
-  bool insert(T&& element);
   // delete current node
   bool remove(node* p);
 
