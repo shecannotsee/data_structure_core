@@ -10,11 +10,11 @@
 namespace she {
 
 template<typename T>
-class array {
+class static_array {
  public:
-  array();
-  array(int capacity);
-  ~array() = default;
+  static_array();
+  static_array(int capacity);
+  ~static_array() = default;
 
 
  private:
@@ -33,8 +33,8 @@ class array {
   int size() const;
   int capacity() const;
 
-};// class array
+};// class static_array
 
-};// namespace shes
+};// namespace she
 
 #endif //DATA_STRUCTURE_CORE_SRC_LINEAR_ARRAY_H_
