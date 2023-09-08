@@ -6,6 +6,7 @@
 #include "test__example.h"
 // test_suite
 #include "tree/test__binary_tree.h"
+#include "linear/test__static_array.h"
 // easy_test
 
 
