@@ -1,0 +1,8 @@
+//
+// Created by shecannotsee on 23-9-8.
+//
+
+#ifndef DATA_STRUCTURE_CORE_TEST__BINARY_TREE_H
+#define DATA_STRUCTURE_CORE_TEST__BINARY_TREE_H
+
+#endif //DATA_STRUCTURE_CORE_TEST__BINARY_TREE_H
